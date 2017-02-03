@@ -1,5 +1,7 @@
 # Make swag from your team's custom slack emojis
 
+![alt tag](./example/spiral-transcriptic-logo.png)
+
 Use this repo to fetch all of the custom emojis for your slack team and transform them into variosu patterns for SWAG!
 
 ## Usage
@@ -28,3 +30,17 @@ Note that the name of the pngs will be something like meme.gif --> [meme-1.png, 
 ```
 convert path/to/meme.gif -scale 100X100 path/to/output/meme.png
 ```
+
+# Examples
+
+Stickers
+![alt tag](./example/stickers.jpg)
+
+Grid (done with grid.sh)
+![alt tag](./example/grid-transcriptic-logo.png)
+
+Spiral (done with spiral.sh)
+![alt tag](./example/large-spiral.png)
+
+Star (done with spiral.sh)
+![alt tag](./example/star-transcriptic-logo.png)
