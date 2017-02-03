@@ -7,7 +7,7 @@ Use this repo to fetch all of the custom emojis for your slack team and transfor
 ## Usage
 
 1. Make sure you have a Slack api token (test is fine)
-2. Set that token to an env var called `SLACK_API_TOKEN` 
+2. Set that token to an env var called `SLACK_API_TOKEN`
 3. Call the `download.js` script from this repo
 4. Watch all your little custom slack emojis pile into './generated/'
 5. Use the various imagemagick scripts provided to make patterns with your emojis
@@ -34,7 +34,7 @@ convert path/to/meme.gif -scale 100X100 path/to/output/meme.png
 # Examples
 
 Stickers
-![alt tag](./example/stickers.jpg)
+![alt tag](./example/stickers.png)
 
 Grid (done with grid.sh)
 ![alt tag](./example/grid-transcriptic-logo.png)
