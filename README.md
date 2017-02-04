@@ -1,8 +1,8 @@
-# Make swag from your team's custom slack emojis
+# Take your Slack emojis and make patterns for stickers, mugs, whatever!
 
 ![alt tag](./example/spiral-transcriptic-logo.png)
 
-Use this repo to fetch all of the custom emojis for your slack team and transform them into variosu patterns for SWAG!
+Use this repo to download all of the custom emojis for your slack team and transform them into various patterns for SWAG!
 
 ## Usage
 
@@ -18,7 +18,7 @@ Use './src/grid.sh' to produce a simple N by M grid of emojis.  Great for mugs o
 ## Spiral
 Use './src/spiral.sh' to produce various spiral shapes.  Awesome for circular stickers!
 
-### Some helpful image magick commands for generating fun patterns
+### Some helpful imagemagick commands for generating fun patterns
 
 Center an image within another image and output a composite.  Note that the output doesn't require a file extension.
 ```
