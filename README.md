@@ -31,16 +31,19 @@ Note that the name of the pngs will be something like meme.gif --> [meme-1.png, 
 convert path/to/meme.gif -scale 100X100 path/to/output/meme.png
 ```
 
-# Examples
+## Examples
 
-Stickers
+# Stickers
 ![alt tag](./example/stickers.png)
 
-Grid (done with grid.sh)
+
+# Grid (done with grid.sh)
 ![alt tag](./example/grid-transcriptic-logo.png)
 
-Spiral (done with spiral.sh)
+
+# Spiral (done with spiral.sh)
 ![alt tag](./example/large-spiral.png)
 
-Star (done with spiral.sh)
+
+# Star (done with spiral.sh)
 ![alt tag](./example/star-transcriptic-logo.png)
